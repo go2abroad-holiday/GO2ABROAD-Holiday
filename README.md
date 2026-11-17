@@ -24,6 +24,8 @@ tags:
 
 # 📅 GO2ABROAD Holiday
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24298141.svg)](https://doi.org/10.5281/zenodo.24298141)
+
 **Real-Time Global Public Holidays, Bank Holidays, Adjusted Workdays & Cross-Border Business Day Calculator**  
 🌐 **Live Service & Interactive Calendar:** [https://holiday.go2abroad.space](https://holiday.go2abroad.space)
 
