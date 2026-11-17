@@ -143,6 +143,8 @@ tags:
 @misc{go2abroad_holiday,
   author       = {Cheung, Peter and {TRANSCEND DATA}},
   title        = {GO2ABROAD Holiday: Real-Time Global Public Holidays & Working Hours Hub},
-  publisher    = {GO2ABROAD / Zenodo},
-  url          = {[https://holiday.go2abroad.space](https://holiday.go2abroad.space)}
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24298141},
+  url          = {https://doi.org/10.5281/zenodo.24298141}
 }
