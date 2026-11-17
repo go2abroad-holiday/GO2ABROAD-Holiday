@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you reference GO2ABROAD Holiday in your research or software, please cite it using this metadata."
+title: "GO2ABROAD Holiday: Real-Time Global Public Holidays & Working Hours Hub"
+authors:
+  - family-names: Cheung
+    given-names: Peter
+    affiliation: TRANSCEND DATA
+url: "https://holiday.go2abroad.space"
+repository-code: "https://github.com/go2abroad-holiday/GO2ABROAD-Holiday"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.24298141"
+keywords:
+  - public-holidays
+  - bank-holidays
+  - business-day-calculator
+  - working-hours
+  - cross-border-operations
